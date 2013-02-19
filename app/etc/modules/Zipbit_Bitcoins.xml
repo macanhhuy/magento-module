@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zipbit_Bitcoins>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Zipbit_Bitcoins>
+    </modules>
+</config>
